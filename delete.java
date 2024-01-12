@@ -1,7 +1,6 @@
-
 class StringBuilderEx{
 public static void main(String args[]){
 StringBuilder sb=new StringBuilder("hello ");
-sb.append("java");
-S ystem.out.println(sb);
+sb.delete(1,3);
+System.out.println(sb);
 }}
