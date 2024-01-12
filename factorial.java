@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 class Demo{
 public long calculateFactorial(int n)
